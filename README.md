@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](https://casaz.vercel.app/)
+- Live Site URL: [Live Site]([https://casaz.vercel.app/](https://github.com/Hasankhankor/Real-estate-NextJS))
 
 ## My process
 
@@ -47,6 +47,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [iqballa24](https://github.com/iqballa24)
+Hasan Tariq
 
 
